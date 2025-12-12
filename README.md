@@ -1,4 +1,3 @@
-````markdown
 # 🤖 PixMind: AI Chatbot
 
 PixMind is an advanced **AI-powered chatbot** built using the **MERN Stack (MongoDB, Express, React, Node.js)**.  
