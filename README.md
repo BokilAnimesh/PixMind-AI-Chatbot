@@ -133,23 +133,11 @@ PixMind/
 ## 🧑‍💻 Author
 
 **Animesh Bokil**
-📧 [[YourEmail@example.com](mailto:YourEmail@example.com)]
-🌐 [LinkedIn / Portfolio Link (optional)]
-
----
-
-## 🪪 License
-
-This project is licensed under the **MIT License** — feel free to use and modify it for learning or development purposes.
+📧 [[animeshbokil1@gmail.com](mailto:animeshbokil1@gmail.com)]
+🌐 [LinkedIn: https://www.linkedin.com/in/BokilAnimesh/]
 
 ---
 
 ⭐ If you like this project, don't forget to **star the repo** and **share** it!
 
-```
-
----
-
-Would you like me to include a **live demo/deployment section** too (for Render, Vercel, or Netlify + Render setup)?  
-I can add that next if you’re planning to host it.
 ```
